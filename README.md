@@ -22,7 +22,13 @@
 
 ## 哈希
 
-- [1002.查找常用字符](https://leetcode-cn.com/problems/find-common-characters/)
+- [1002. 查找常用字符](https://leetcode-cn.com/problems/find-common-characters/)
+
+---
+
+## 链表
+
+- [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
 
 ---
 
