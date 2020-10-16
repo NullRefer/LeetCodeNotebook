@@ -6,7 +6,7 @@ using System.Linq;
 namespace LeetCodeNotebook
 {
     /// <summary>
-    /// LeetCode #38
+    /// LeetCode #39
     /// Backtracking
     /// </summary>
     public class CombinationSum : IExecute

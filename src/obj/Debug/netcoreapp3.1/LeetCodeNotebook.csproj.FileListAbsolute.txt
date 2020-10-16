@@ -1,0 +1,13 @@
+D:\App Data\Repos\LeetCodeNotebook\src\bin\Debug\netcoreapp3.1\LeetCodeNotebook.exe
+D:\App Data\Repos\LeetCodeNotebook\src\bin\Debug\netcoreapp3.1\LeetCodeNotebook.deps.json
+D:\App Data\Repos\LeetCodeNotebook\src\bin\Debug\netcoreapp3.1\LeetCodeNotebook.runtimeconfig.json
+D:\App Data\Repos\LeetCodeNotebook\src\bin\Debug\netcoreapp3.1\LeetCodeNotebook.runtimeconfig.dev.json
+D:\App Data\Repos\LeetCodeNotebook\src\bin\Debug\netcoreapp3.1\LeetCodeNotebook.dll
+D:\App Data\Repos\LeetCodeNotebook\src\bin\Debug\netcoreapp3.1\LeetCodeNotebook.pdb
+D:\App Data\Repos\LeetCodeNotebook\src\obj\Debug\netcoreapp3.1\LeetCodeNotebook.csprojAssemblyReference.cache
+D:\App Data\Repos\LeetCodeNotebook\src\obj\Debug\netcoreapp3.1\LeetCodeNotebook.AssemblyInfoInputs.cache
+D:\App Data\Repos\LeetCodeNotebook\src\obj\Debug\netcoreapp3.1\LeetCodeNotebook.AssemblyInfo.cs
+D:\App Data\Repos\LeetCodeNotebook\src\obj\Debug\netcoreapp3.1\LeetCodeNotebook.csproj.CoreCompileInputs.cache
+D:\App Data\Repos\LeetCodeNotebook\src\obj\Debug\netcoreapp3.1\LeetCodeNotebook.dll
+D:\App Data\Repos\LeetCodeNotebook\src\obj\Debug\netcoreapp3.1\LeetCodeNotebook.pdb
+D:\App Data\Repos\LeetCodeNotebook\src\obj\Debug\netcoreapp3.1\LeetCodeNotebook.genruntimeconfig.cache

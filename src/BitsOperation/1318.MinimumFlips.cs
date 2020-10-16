@@ -23,29 +23,19 @@ namespace LeetCodeNotebook
 
         public int MinFlips(int a, int b, int c)
         {
-            string aStr = a.ToString("B8");
-            string bStr = b.ToString("B8");
-            string cStr = c.ToString("B8");
             int res = 0;
-            for (int i = 0; i < cStr.Length; i++)
+            for (int i = 0; i < 32; i++)
             {
-                if (cStr[i] == '0')
+                var bita = (a >> i) & 1;
+                var bitb = (b >> i) & 1;
+                var bitc = (c >> i) & 1;
+                if (bitc == 0)
                 {
-                    if (aStr[i] == '1' && bStr[i] == '1')
-                    {
-                        res += 2;
-                    }
-                    else if (aStr[i] == '1' || bStr[i] == '1')
-                    {
-                        res += 1;
-                    }
+                    res += bita + bitb;
                 }
                 else
                 {
-                    if (aStr[i] == '0' && bStr[i] == '0')
-                    {
-                        res += 1;
-                    }
+                    res += (bita + bitb == 0) ? 1 : 0;
                 }
             }
             return res;
