@@ -2,6 +2,12 @@
 
 ---
 
+## 数组
+
+- [950. 按递增顺序显示卡牌](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/)
+
+---
+
 ## 回溯算法
 
 - [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)

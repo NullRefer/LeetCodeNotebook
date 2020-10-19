@@ -6,7 +6,7 @@ namespace LeetCodeNotebook
     {
         static void Main(string[] args)
         {
-            new MiddleOfLinkedList().Execute();
+            new RevealingCards().Execute();
         }
     }
 }
