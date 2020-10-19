@@ -12,6 +12,8 @@ namespace LeetCodeNotebook
     {
         public void Execute()
         {
+            string s = "fdkalf";
+            
             var res = CountAndSay(5);
             PrintResult(res);
         }

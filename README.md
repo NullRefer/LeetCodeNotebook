@@ -5,6 +5,8 @@
 ## 回溯算法
 
 - [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)
+- [51. N皇后](https://leetcode-cn.com/problems/n-queens/)
+- [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/) (2020-10-17)
 
 ---
 
@@ -16,6 +18,7 @@
 
 ## 双指针
 
+- [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) (2020-10-18)
 - [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)
 
 ---

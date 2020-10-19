@@ -2,6 +2,7 @@ namespace LeetCodeNotebook
 {
     /// <summary>
     /// LeetCode #977
+    /// Double Pointers
     /// </summary>
     public class SquaresOfSortedArray : IExecute
     {
