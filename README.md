@@ -13,6 +13,8 @@
 - [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)
 - [51. N皇后](https://leetcode-cn.com/problems/n-queens/)
 - [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/) (2020-10-17)
+- [77. 组合](https://leetcode-cn.com/problems/combinations/)
+- [216. 组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/)
 
 ---
 
@@ -29,6 +31,12 @@
 
 ---
 
+## 动态规划
+
+- [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)
+
+---
+
 ## 哈希
 
 - [1002. 查找常用字符](https://leetcode-cn.com/problems/find-common-characters/)
@@ -37,7 +45,14 @@
 
 ## 链表
 
+- [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/) (2020-10-20)
 - [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
+
+---
+
+## 栈
+
+- [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) (2020-10-19)
 
 ---
 
