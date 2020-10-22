@@ -18,16 +18,30 @@
 
 ---
 
+## BFS
+
+- [面试题 04.03. 特定深度节点链表](https://leetcode-cn.com/problems/list-of-depth-lcci/)
+
+---
+
 ## 位运算
 
 - [1318. 或运算的最小翻转次数](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)
 
 ---
 
+## DFS
+
+- [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
+
+---
+
 ## 双指针
 
 - [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) (2020-10-18)
+- [925. 长按键入](https://leetcode-cn.com/problems/long-pressed-name/) (2020-10-21)
 - [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)
+- [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels/) (2020-10-22)
 
 ---
 

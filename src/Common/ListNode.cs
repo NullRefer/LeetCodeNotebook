@@ -1,3 +1,5 @@
+using System;
+
 namespace LeetCodeNotebook
 {
     public class ListNode
@@ -10,5 +12,18 @@ namespace LeetCodeNotebook
 
         public int val;
         public ListNode next;
+
+    }
+
+    public static class ListNodeExtension
+    {
+        public static void PrintOut(this ListNode head)
+        {
+            while (head != null)
+            {
+                Console.Write($"{head.val},");
+                head = head.next;
+            }
+        }
     }
 }
