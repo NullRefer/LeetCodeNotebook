@@ -32,16 +32,19 @@
 
 ## DFS
 
+- [100. 相同的树](https://leetcode-cn.com/problems/same-tree/)
 - [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
+- [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)
 
 ---
 
 ## 双指针
 
 - [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) (2020-10-18)
+- [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
+- [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels/) (2020-10-22)
 - [925. 长按键入](https://leetcode-cn.com/problems/long-pressed-name/) (2020-10-21)
 - [977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)
-- [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels/) (2020-10-22)
 
 ---
 
@@ -73,3 +76,4 @@
 ## 字符串
 
 - [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/)
+- [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/)

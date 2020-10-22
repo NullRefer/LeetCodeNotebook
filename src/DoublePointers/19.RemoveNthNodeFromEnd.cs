@@ -27,7 +27,7 @@ namespace LeetCodeNotebook
 
         void PrintResult(ListNode head)
         {
-            System.Console.WriteLine("Leetcode #977:");
+            System.Console.WriteLine("Leetcode #19:");
             while (head != null)
             {
                 System.Console.WriteLine(head.val);

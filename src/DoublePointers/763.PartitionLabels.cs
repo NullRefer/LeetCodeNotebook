@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace LeetCodeNotebook
 {
     /// <summary>
-    /// LeetCode #19
+    /// LeetCode #763
     /// Double Pointers
     /// </summary>
     public class PartitionLabels : IExecute
