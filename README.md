@@ -4,6 +4,7 @@
 
 ## 数组
 
+- [442. 数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)
 - [950. 按递增顺序显示卡牌](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/)
 
 ---
@@ -64,6 +65,7 @@
 ## 链表
 
 - [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/) (2020-10-20)
+- [445. 两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/)
 - [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
 
 ---

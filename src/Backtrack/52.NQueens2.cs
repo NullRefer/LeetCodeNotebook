@@ -19,7 +19,7 @@ namespace LeetCodeNotebook
 
         void PrintResult(int res)
         {
-            Console.WriteLine("LeetCode #51:");
+            Console.WriteLine("LeetCode #52:");
             System.Console.WriteLine(res);
         }
 
