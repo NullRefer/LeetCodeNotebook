@@ -41,6 +41,7 @@
 ## 双指针
 
 - [19. 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) (2020-10-18)
+- [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) (2020-10-23)
 - [392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)
 - [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels/) (2020-10-22)
 - [925. 长按键入](https://leetcode-cn.com/problems/long-pressed-name/) (2020-10-21)
