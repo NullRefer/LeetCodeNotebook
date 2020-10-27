@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 
 namespace LeetCodeNotebook
@@ -35,6 +36,33 @@ namespace LeetCodeNotebook
                 if (root.right != null)
                 {
                     sta.Enqueue(root.right);
+                }
+            }
+        }
+
+        public static void PreOrderTravel(this TreeNode root, Action<TreeNode> action = null)
+        {
+            if (root == null)
+            {
+                return;
+            }
+            if (action == null)
+            {
+                action = root => System.Console.WriteLine(root.val);
+            }
+            var stack = new Stack<TreeNode>();
+            stack.Push(root);
+            while (stack.Count > 0)
+            {
+                root = stack.Pop();
+                action(root);
+                if (root.right != null)
+                {
+                    stack.Push(root.right);
+                }
+                if (root.left != null)
+                {
+                    stack.Push(root.left);
                 }
             }
         }

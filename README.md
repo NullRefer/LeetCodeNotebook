@@ -13,6 +13,7 @@
 ## 回溯算法
 
 - [39. 组合总和](https://leetcode-cn.com/problems/combination-sum/)
+- [40. 组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/)
 - [51. N皇后](https://leetcode-cn.com/problems/n-queens/)
 - [52. N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/) (2020-10-17)
 - [77. 组合](https://leetcode-cn.com/problems/combinations/)
@@ -84,6 +85,7 @@
 
 ## 栈
 
+- [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) (2020-10-27)
 - [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) (2020-10-19)
 
 ---
