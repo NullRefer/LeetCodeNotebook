@@ -5,6 +5,7 @@
 ## 数组
 
 - [442. 数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)
+- [769. 最多能完成排序的块](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)
 - [950. 按递增顺序显示卡牌](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/)
 - [1365. 有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) (2020-10-26)
 
@@ -57,6 +58,7 @@
 ## 动态规划
 
 - [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)
+- [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
 - [1024. 视频拼接](https://leetcode-cn.com/problems/video-stitching/) (2020-10-24)
 
 ---
@@ -64,6 +66,7 @@
 ## 哈希
 
 - [1002. 查找常用字符](https://leetcode-cn.com/problems/find-common-characters/)
+- [1207. 独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/) (2020-10-28)
 
 ---
 
