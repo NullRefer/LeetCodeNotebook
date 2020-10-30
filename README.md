@@ -40,6 +40,7 @@
 - [100. 相同的树](https://leetcode-cn.com/problems/same-tree/)
 - [109. 有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/)
 - [112. 路径总和](https://leetcode-cn.com/problems/path-sum/)
+- [129. 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) (2020-10-29)
 
 ---
 
