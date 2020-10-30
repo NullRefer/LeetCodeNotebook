@@ -6,6 +6,7 @@
 
 - [442. 数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)
 - [769. 最多能完成排序的块](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)
+- [945. 使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)
 - [950. 按递增顺序显示卡牌](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/)
 - [1365. 有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) (2020-10-26)
 
@@ -60,6 +61,7 @@
 
 - [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)
 - [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
+- [718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)
 - [1024. 视频拼接](https://leetcode-cn.com/problems/video-stitching/) (2020-10-24)
 
 ---
