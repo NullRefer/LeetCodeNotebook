@@ -4,7 +4,9 @@
 
 ## 数组
 
+- [268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/)
 - [442. 数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)
+- [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
 - [769. 最多能完成排序的块](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)
 - [945. 使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)
 - [950. 按递增顺序显示卡牌](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/)
