@@ -16,7 +16,7 @@ namespace LeetCodeNotebook
                 var instance = assembly.CreateInstance($"LeetCodeNotebook.{args[0]}");
                 methodInfo.Invoke(instance, null);
             }
-            else new ValidMountainArray().Execute();
+            else new InsertInterval().Execute();
         }
     }
 }
