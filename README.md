@@ -66,7 +66,9 @@
 ## 动态规划
 
 - [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)
+- [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
 - [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
+- [523. 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/)
 - [718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)
 - [1024. 视频拼接](https://leetcode-cn.com/problems/video-stitching/) (2020-10-24)
 
@@ -96,6 +98,13 @@
 - [202. 快乐数](https://leetcode-cn.com/problems/happy-number/)
 - [204. 计数质数](https://leetcode-cn.com/problems/count-primes/)
 - [598. 范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/)
+
+---
+
+## 排序
+
+- [1356. 根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) (2020-11-6)
+- [1387. 将整数按权重排序](https://leetcode-cn.com/problems/sort-integers-by-the-power-value/)
 
 ---
 
