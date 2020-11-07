@@ -4,6 +4,7 @@
 
 ## 数组
 
+- [327. 区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/) (2020-11-7)
 - [57. 插入区间](https://leetcode-cn.com/problems/insert-interval/) (2020-11-4)
 - [268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/)
 - [442. 数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)

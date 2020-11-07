@@ -33,42 +33,66 @@ namespace LeetCodeNotebook
             }
         }
 
+        // 2nd method optimize for space
         public int[][] Insert(int[][] intervals, int[] newInterval)
         {
-            List<int[]> overlapped = new List<int[]>();
-            List<int[]> notOverlapped = new List<int[]>();
+            List<int[]> res = new List<int[]>();
             for (int i = 0; i < intervals.Length; i++)
             {
                 bool isNotOverlap = newInterval[0] > intervals[i][1] || newInterval[1] < intervals[i][0];
-                if (!isNotOverlap)
+                if (isNotOverlap)
                 {
-                    overlapped.Add(intervals[i]);
+                    res.Add(intervals[i]);
                 }
+                // merge if overlap
                 else
                 {
-                    notOverlapped.Add(intervals[i]);
+                    newInterval[0] = Math.Min(newInterval[0], intervals[i][0]);
+                    newInterval[1] = Math.Max(newInterval[1], intervals[i][1]);
                 }
             }
-            // merge
-            foreach (var interval in overlapped)
-            {
-                newInterval[0] = Math.Min(newInterval[0], interval[0]);
-                newInterval[1] = Math.Max(newInterval[1], interval[1]);
-            }
-            int notOverlapCount = notOverlapped.Count;
-            for (int i = 0; i < notOverlapCount; i++)
-            {
-                if (newInterval[0] < notOverlapped[i][0])
-                {
-                    notOverlapped.Insert(i, newInterval);
-                    break;
-                }
-            }
-            if (notOverlapped.Count == notOverlapCount)
-            {
-                notOverlapped.Add(newInterval);
-            }
-            return notOverlapped.ToArray();
+            res.Add(newInterval);
+            // sort by first
+            return res.OrderBy(v => v[0]).ToArray();
         }
+
+        // 1st method o(n), o(n)
+        // public int[][] Insert(int[][] intervals, int[] newInterval)
+        // {
+        //     List<int[]> overlapped = new List<int[]>();
+        //     List<int[]> notOverlapped = new List<int[]>();
+        //     for (int i = 0; i < intervals.Length; i++)
+        //     {
+        //         bool isNotOverlap = newInterval[0] > intervals[i][1] || newInterval[1] < intervals[i][0];
+        //         if (!isNotOverlap)
+        //         {
+        //             overlapped.Add(intervals[i]);
+        //         }
+        //         else
+        //         {
+        //             notOverlapped.Add(intervals[i]);
+        //         }
+        //     }
+        //     // merge
+        //     foreach (var interval in overlapped)
+        //     {
+        //         newInterval[0] = Math.Min(newInterval[0], interval[0]);
+        //         newInterval[1] = Math.Max(newInterval[1], interval[1]);
+        //     }
+        //     int notOverlapCount = notOverlapped.Count;
+        //     for (int i = 0; i < notOverlapCount; i++)
+        //     {
+        //         if (newInterval[0] < notOverlapped[i][0])
+        //         {
+        //             notOverlapped.Insert(i, newInterval);
+        //             break;
+        //         }
+        //     }
+        //     if (notOverlapped.Count == notOverlapCount)
+        //     {
+        //         notOverlapped.Add(newInterval);
+        //     }
+        //     return notOverlapped.ToArray();
+        // }
     }
 }
