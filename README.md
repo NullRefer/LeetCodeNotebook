@@ -14,6 +14,7 @@
 - [945. 使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)
 - [950. 按递增顺序显示卡牌](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/)
 - [1365. 有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/) (2020-10-26)
+- [1375. 灯泡开关 III](https://leetcode-cn.com/problems/bulb-switcher-iii/)
 
 ---
 
@@ -67,11 +68,18 @@
 ## 动态规划
 
 - [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)
+- [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 - [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
 - [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
 - [523. 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/)
 - [718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)
 - [1024. 视频拼接](https://leetcode-cn.com/problems/video-stitching/) (2020-10-24)
+
+---
+
+## 贪心
+
+- [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) (2020-11-8)
 
 ---
 
