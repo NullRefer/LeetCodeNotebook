@@ -4,9 +4,9 @@
 
 ## 数组
 
-- [327. 区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/) (2020-11-7)
 - [57. 插入区间](https://leetcode-cn.com/problems/insert-interval/) (2020-11-4)
 - [268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/)
+- [327. 区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/) (2020-11-7)
 - [442. 数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
 - [769. 最多能完成排序的块](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)
@@ -112,6 +112,7 @@
 
 ## 排序
 
+- [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/) (2020-11-10)
 - [1356. 根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) (2020-11-6)
 - [1387. 将整数按权重排序](https://leetcode-cn.com/problems/sort-integers-by-the-power-value/)
 
