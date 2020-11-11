@@ -71,6 +71,7 @@
 - [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 - [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
 - [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
+- [514. 自由之路](https://leetcode-cn.com/problems/freedom-trail/) (2020-11-11)
 - [523. 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/)
 - [718. 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/)
 - [1024. 视频拼接](https://leetcode-cn.com/problems/video-stitching/) (2020-10-24)
