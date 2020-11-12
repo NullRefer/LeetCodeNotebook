@@ -10,6 +10,8 @@
 - [442. 数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/)
 - [509. 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)
 - [769. 最多能完成排序的块](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/)
+- [905. 按奇偶排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/)
+- [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) (2020-11-12)
 - [941. 有效的山脉数组](https://leetcode-cn.com/problems/valid-mountain-array/) (2020-11-3)
 - [945. 使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)
 - [950. 按递增顺序显示卡牌](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/)
