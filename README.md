@@ -110,6 +110,7 @@
 
 - [202. 快乐数](https://leetcode-cn.com/problems/happy-number/)
 - [204. 计数质数](https://leetcode-cn.com/problems/count-primes/)
+- [319. 灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/)
 - [598. 范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/)
 
 ---
@@ -117,6 +118,8 @@
 ## 排序
 
 - [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/) (2020-11-10)
+- [973. 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
+- [1122. 数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/) (2020-11-14)
 - [1356. 根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) (2020-11-6)
 - [1387. 将整数按权重排序](https://leetcode-cn.com/problems/sort-integers-by-the-power-value/)
 
