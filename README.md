@@ -129,6 +129,7 @@
 ## 栈
 
 - [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) (2020-10-27)
+- [402. 移掉K位数字](https://leetcode-cn.com/problems/remove-k-digits/) (2020-11-15)
 - [844. 比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare/) (2020-10-19)
 
 ---
