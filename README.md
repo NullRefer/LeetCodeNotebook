@@ -118,6 +118,7 @@
 ## 排序
 
 - [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/) (2020-11-10)
+- [406. 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) (2020-11-16)
 - [973. 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
 - [1122. 数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/) (2020-11-14)
 - [1356. 根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/) (2020-11-6)
