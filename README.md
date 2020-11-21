@@ -102,6 +102,7 @@
 
 - [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
 - [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/) (2020-10-20)
+- [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) (2020-11-21)
 - [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) (2020-11-13)
 - [445. 两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/)
 - [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
