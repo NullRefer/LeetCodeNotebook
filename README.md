@@ -90,6 +90,7 @@
 
 ## 哈希
 
+- [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) (2020-11-22)
 - [349. 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/) (2020-11-2)
 - [381. O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) (2020-10-31)
 - [463. 岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/) (2020-10-30)
@@ -103,6 +104,7 @@
 - [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)
 - [143. 重排链表](https://leetcode-cn.com/problems/reorder-list/) (2020-10-20)
 - [147. 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) (2020-11-20)
+- [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) (2020-11-21)
 - [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) (2020-11-13)
 - [445. 两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/)
 - [876. 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
