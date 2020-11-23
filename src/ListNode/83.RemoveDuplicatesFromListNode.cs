@@ -41,18 +41,18 @@ namespace LeetCodeNotebook
             {
                 return head;
             }
-            ListNode pre = new ListNode(-16548);
-            ListNode cur = pre;
-            while (head != null)
+            ListNode cur = head, pre = head;
+            while (cur != null && cur.next != null)
             {
-                if (cur.val != head.val)
+                cur = cur.next;
+                while (cur != null && cur.val == pre.val)
                 {
-                    cur.next = new ListNode(head.val);
                     cur = cur.next;
                 }
-                head = head.next;
+                pre.next = cur;
+                pre = cur;
             }
-            return pre.next;
+            return head;
         }
     }
 }
