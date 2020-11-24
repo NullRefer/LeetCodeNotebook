@@ -145,3 +145,9 @@
 
 - [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/)
 - [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/)
+
+---
+
+## 二叉树
+
+- [222. 完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/) (2020-11-24)
