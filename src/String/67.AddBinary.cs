@@ -71,7 +71,8 @@ namespace LeetCodeNotebook
                 }
                 p0 += 1;
             }
-            if (p0 < bArr.Length){
+            if (p0 < bArr.Length)
+            {
                 aArr = bArr;
             }
             while (p0 < aArr.Length)

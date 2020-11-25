@@ -145,6 +145,7 @@
 
 - [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/)
 - [67. 二进制求和](https://leetcode-cn.com/problems/add-binary/)
+- [1370. 上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string/) (2020-11-25)
 
 ---
 
