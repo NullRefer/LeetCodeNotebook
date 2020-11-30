@@ -127,6 +127,7 @@
 - [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/) (2020-11-10)
 - [164. 最大间距](https://leetcode-cn.com/problems/maximum-gap/) (2020-11-26)
 - [406. 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) (2020-11-16)
+- [767. 重构字符串](https://leetcode-cn.com/problems/reorganize-string/) (2020-11-30)
 - [973. 最接近原点的 K 个点](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
 - [1030. 距离顺序排列矩阵单元格](https://leetcode-cn.com/problems/matrix-cells-in-distance-order/) (2020-11-17)
 - [1122. 数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array/) (2020-11-14)
