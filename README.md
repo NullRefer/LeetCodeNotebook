@@ -4,6 +4,7 @@
 
 ## 数组
 
+- [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (2020-12-1)
 - [57. 插入区间](https://leetcode-cn.com/problems/insert-interval/) (2020-11-4)
 - [268. 丢失的数字](https://leetcode-cn.com/problems/missing-number/)
 - [327. 区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/) (2020-11-7)
