@@ -72,6 +72,7 @@
 ## 动态规划
 
 - [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)
+- [118. 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle/) (2020-12-6)
 - [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
 - [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
 - [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)
@@ -120,6 +121,7 @@
 - [204. 计数质数](https://leetcode-cn.com/problems/count-primes/)
 - [319. 灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/)
 - [598. 范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/)
+- [621. 任务调度器](https://leetcode-cn.com/problems/task-scheduler/) (2020-12-5)
 
 ---
 
