@@ -22,40 +22,20 @@ namespace LeetCodeNotebook
 
         public int CountPrime(int n)
         {
-            if (n <= 1)
-            {
-                return 0;
-            }
-            var res = GeneratePrime(n);
-            return res.Count();
-        }
-
-        private IEnumerable<int> GeneratePrime(int n)
-        {
-            for (int i = 1; i <= n; i++)
-            {
-                if (IsPrime(i))
-                {
-                    System.Console.WriteLine(i);
-                    yield return i;
-                }
-            }
-        }
-
-        private bool IsPrime(int n)
-        {
-            if (n == 1)
-            {
-                return false;
-            }
+            int[] a = new int[n + 1];
+            int count = 0;
             for (int i = 2; i < n; i++)
-            {
-                if (n % i == 0)
+                a[i] = 1;
+
+            for (int i = 2; i < n; i++)
+                if (a[i] != 0)
                 {
-                    return false;
+                    count++;
+                    for (int j = 2 * i; j < n; j += i)
+                        a[j] = 0;
                 }
-            }
-            return true;
+
+            return count;
         }
     }
 }

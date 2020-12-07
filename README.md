@@ -87,6 +87,7 @@
 - [122. 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/) (2020-11-8)
 - [134. 加油站](https://leetcode-cn.com/problems/gas-station/) (2020-11-18)
 - [452. 用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/) (2020-11-23)
+- [861. 翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/) (2020-12-7)
 
 ---
 
@@ -117,7 +118,7 @@
 ## 数学
 
 - [202. 快乐数](https://leetcode-cn.com/problems/happy-number/)
-- [204. 计数质数](https://leetcode-cn.com/problems/count-primes/)
+- [204. 计数质数](https://leetcode-cn.com/problems/count-primes/) (2020-12-3)
 - [319. 灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/)
 - [598. 范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/)
 
