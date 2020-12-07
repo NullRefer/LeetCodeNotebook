@@ -35,7 +35,7 @@ namespace LeetCodeNotebook
         {
             IList<int> res = new List<int>();
             Action<TreeNode> action = root => res.Add(root.val);
-            root.PreOrderTravel(action);
+            root.PostOrderTravel(action);
             return res;
         }
     }
